@@ -1,0 +1,20 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java / Maven
+backend/target/
+*.class
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment / secrets
+.env
+.env.*
+backend/src/main/resources/application.properties
+
+# OS
+.DS_Store
+Thumbs.db
